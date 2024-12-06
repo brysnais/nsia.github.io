@@ -22,7 +22,7 @@ body {
     margin-bottom: 1.5em;
   }
 nav {
-    background-color: #101820;
+    background-color: #2F3C7E;
     position: sticky;
     top: 0;
     z-index: 1000;
@@ -46,7 +46,7 @@ nav {
   }
   
   .menu a:hover {
-    background-color: #575757;
+    background-color: #FBEAEB;
   }
   
   .dropdown-menu {
@@ -56,7 +56,7 @@ nav {
     position: absolute;
     top: 100%;
     left: 0;
-    background-color: #333;
+    background-color: #ffcfd1;
     display: none;
   }
   
@@ -65,7 +65,7 @@ nav {
   }
   
   .dropdown-menu li a:hover {
-    background-color: #575757;
+    background-color: #FBEAEB;
   }
 
   .menu .dropdown:hover .dropdown-menu {
