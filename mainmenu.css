@@ -4,3 +4,9 @@ body {
     background-color: #FBEAEB;
     margin: 0;
   }
+header {
+    background-color: #FFCCE1;
+    font-size: 3em;
+    color: white;
+    padding: 30px 0;
+  }
