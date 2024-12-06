@@ -1,11 +1,11 @@
 body {
   font-family: 'Times New Roman', Times, serif;
-  background-color: #F5F0CD;
+  background-color: #FCF6F5;
   margin: 0;
 }
 
 header {
-  background-color: #B1F0F7;
+  background-color: #990011;
   font-size: 3em;
   color: white;
   padding: 30px 0;
@@ -14,15 +14,7 @@ header {
 
 h1{
   text-align: center;
-}
 
-main {
-  max-width: 800px;
-  margin: 2em auto;
-  padding: 1em;
-  background: white;
-  border-radius: 20px;
-  text-align: center;
 }
 
 section {
