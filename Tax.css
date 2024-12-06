@@ -1,23 +1,16 @@
 body {
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
-    background-color: #EFB6C8;
+    background-color: #EA738D;
     margin: 0;
   }
   
   header {
-    background-color: #A888B5;
+    background-color: #89ABE3;
     font-size: 3em;
     color: white;
     padding: 30px 0;
-  }
   
-  main {
-    max-width: 800px;
-    margin: 2em auto;
-    padding: 1em;
-    background: white;
-    border-radius: 20px;
   }
   
   p {
@@ -35,7 +28,7 @@ body {
   }
   
   nav {
-    background-color: #8174A0;
+    background-color: #89ABE3;
     position: sticky;
     top: 0;
     z-index: 1000;
@@ -61,7 +54,7 @@ body {
   }
   
   .menu a:hover {
-    background-color: #575757;
+    background-color: #EA738D;
   }
   
   .dropdown-menu {
@@ -136,7 +129,7 @@ body {
   
   button {
     padding: 10px 20px;
-    background-color: #8174A0;
+    background-color: #89ABE3;
     color: white;
     border: none;
     border-radius: 5px;
